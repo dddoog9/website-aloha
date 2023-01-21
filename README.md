@@ -10,3 +10,7 @@ Portfolio Aloha
 ## VS Code Plugins
 
 - Live Server
+
+## License
+
+[MIT](LICENSE.md)
