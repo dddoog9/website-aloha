@@ -1,0 +1,9 @@
+{
+  "name": "Website aloha",
+  "description": "Portfolio Aloha",
+  "image_url": "https://github.com/dddoog9/website-aloha/raw/main/aloha.jpg",
+  "pin": 0,
+  "tags": ["HTML", "SASS", "JavaScript"],
+  "website_url": "https://dddoog9.github.io/website-aloha/",
+  "github_url": "https://github.com/dddoog9/website-aloha"
+}
